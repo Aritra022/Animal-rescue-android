@@ -2,7 +2,7 @@
 
 
 A full-stack Android application for reporting and rescuing abandoned or injured animals, using MongoDB, Express, Java, and Postman API testing.
-An Android-based animal rescue system that lets users report stray or injured animals by uploading photos and details, enabling volunteers to respond in real-time. Built with MongoDB, Java, Express, and Postman-tested APIs.
+An Android-based animal rescue system that lets users report stray or injured animals by uploading photos and details, enabling volunteers to respond in real-time. 
 
 #some more information👇🏻
 
